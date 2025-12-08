@@ -1,2 +1,2 @@
 # Dexxplay-OS
-A imaginary os coded in code and made for computers
+A imaginary os coded with code and made for computers
