@@ -1,7 +1,7 @@
 # Dexxplay-OS
-A imaginary os coded with code and made for computers \r\n
-                      __________\r\n
-                     |         x|\r\n
+A imaginary os coded with code and made for computers <br>
+                      __________<br>
+                     |         x|<br>
   ___________.       |    /\    |
  |          x|       |    \/    |
  |           |       |  dexxos  |
